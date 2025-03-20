@@ -5,7 +5,7 @@ namespace blinkerCPP {
      * Adds two numbers and returns the result
      */
     //%
-    int addNumbers(int a, int b) {
+    int32 addNumbers(int32 a, int32 b) {
         // C++ implementation that will run on the actual hardware
         return a + b;
     }
