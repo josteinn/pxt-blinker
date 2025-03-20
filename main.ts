@@ -2,7 +2,7 @@
 namespace blinker {
 
     //% block
-    //% shim=blinker::startBlink
+    //% shim=blinkerCPP::addNumbers
     export function startBlink(timeOn: number, timeOff: number) {
         return timeOff + timeOn;
     }

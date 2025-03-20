@@ -1,12 +1,12 @@
 #include "pxt.h"
 
-namespace blinker {
+namespace blinkerCPP {
     /**
      * Adds two numbers and returns the result
      */
     //%
-    int startBlink(int timeOn, int timeOff) {
+    int addNumbers(int a, int b) {
         // C++ implementation that will run on the actual hardware
-        return timeOff + timeOn;
+        return a + b;
     }
 }
