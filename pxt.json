@@ -11,6 +11,7 @@
         "main.ts",
         "README.md"
     ],
+    "icon": "icon.png",
     "testFiles": [
         "test.ts"
     ],
